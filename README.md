@@ -11,10 +11,10 @@
 <p align="center">
     <a href="" title="best programming language ever, thats why its on TOP!"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
     <br>
-    <a href="" title="android > iOS" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="" title="android > iOS"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
     <br>
     <a href="" title="fried chicken is good, kfc is alright at best but the icon fits this spot perfectly so..."><img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white"></a>
-    <a href="https://anilist.co/user/SlushyRH/" target="_blank"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
+    <a href="https://anilist.co/user/SlushyRH/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"></a>
     <br>
     <a href="https://soundcloud.com/slushyrh"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
     <a href="https://github.com/slushyrh" title="yes i know this is useless since your on my github but i need to fill space to make this pyramid cool ok forgive pls thanks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
