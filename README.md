@@ -32,4 +32,4 @@ I'm Lachlan, also known as SlushyRH, and I'm from Sydney, Australia. I've been p
 <br/>
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlushyRH&show_icons=true&theme=tokyonight)
+![slushyrh's Stats](https://github-readme-stats.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
