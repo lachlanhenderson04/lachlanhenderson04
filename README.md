@@ -1,7 +1,7 @@
 # Lachlan Henderson (SlushyRH)
-**`Indie Game Developer/Programmer/Creator`** **[`slushyrh.dev`](https://slushyrh.dev/)**
+**`Indie Game Developer/Programmer`** **[`slushyrh.dev`](https://slushyrh.dev/)** **[`lrh04.dev`](https://lrh04.dev/)** **[`lachlanhenderson.com`](https://lachlanhenderson.com/)**
 
-I'm Lachlan, also known as SlushyRH, and I'm from Sydney, Australia. I've been programming for 5+ years and I'm currently studying a Bachelor of Computer Science with a major in Games and Mobile Developement at the University of Wollongong. Check out my website **[slushyrh.dev](https://slushyrh.dev/)** for a more detailed look at all my games and projects.
+I'm Lachlan, also known as SlushyRH, and I'm from Sydney, Australia. I've been programming for 5+ years and I'm currently studying a Bachelor of Computer Science with a major in Games and Mobile Developement at the University of Wollongong.
 
 #
 
