@@ -34,6 +34,5 @@ I'm Lachlan, also known as SlushyRH, and I'm from Sydney, Australia. I've been p
 ### Stats
 ![slushyrh's Stats](https://github-readme-stats.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-![slushyrh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slushyrh&theme=vue-dark&hide_border=true)
-<br>
 ![slushyrh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+Yes I know I need to diversify my public repositories.
