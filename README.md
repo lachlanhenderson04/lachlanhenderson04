@@ -49,7 +49,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin-top: 10px;">
+<div style="display: flex; align-items: center;">
       <img src="https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;" />
       <img src="https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 200px;" />
   </div>
