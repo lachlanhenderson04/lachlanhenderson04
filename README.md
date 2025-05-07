@@ -9,7 +9,7 @@ education: ["Bachelor of Computer Science", "Diploma of Information Technology"]
 university: University of Wollongong
 fields_of_interests: ["Game Development", "Simulations", "Front End Development", "UI Design", 
                       "Photo & Video Editing"]
-technical_background: ["Game Development", "Optimization"]
+technical_background: ["Game Development", "Desktop Application Development", "Optimization"]
 currently_learning: ["React"]
 will_learn: ["Game Engine Development", "Blender"]
 hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
