@@ -14,7 +14,6 @@ currently_learning: ["React"]
 will_learn: ["Game Engine Development", "Blender"]
 hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 ```
-
 #
 
 ### Programming Languages
