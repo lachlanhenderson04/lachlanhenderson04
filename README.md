@@ -15,7 +15,7 @@ will_learn: ["Game Engine Development", "Blender"]
 hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 ```
 
-#
+---
 
 ### Programming Languages
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -29,7 +29,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
-<br>
+---
 
 ### Tools
 <img align="left" alt="Unity" title="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
@@ -41,11 +41,10 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img align="left" alt="Gitbook" title="Gitbook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original-wordmark.svg"/>
 
-<br>
-<br>
+---
 
 <details>
-    <summary>Stats</summary>
+    <summary>⚡Stats</summary>
       <div style="display: flex; gap: 10px; align-items: center;">
           <img src="https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 200px;" />
           <img src="https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 200px;" />
