@@ -31,6 +31,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 
 <br/>
 <br/>
+
 ---
 
 ### Tools
@@ -45,6 +46,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 
 <br/>
 <br/>
+
 ---
 
 <details>
