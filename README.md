@@ -44,7 +44,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <br/>
 
 ### Stats
-<div style="display: flex; gap: 10px;">
-    <img src="https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" style="height: 165px;" />
+    <img src="https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="height: 165px;" />
 </div>
