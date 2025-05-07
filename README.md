@@ -29,7 +29,8 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
-<br>
+<br/>
+<br/>
 ---
 
 ### Tools
@@ -42,7 +43,8 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img align="left" alt="Gitbook" title="Gitbook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original-wordmark.svg"/>
 
-<br>
+<br/>
+<br/>
 ---
 
 <details>
