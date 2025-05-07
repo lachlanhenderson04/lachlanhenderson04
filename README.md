@@ -42,6 +42,7 @@ hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
 <img align="left" alt="Gitbook" title="Gitbook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original-wordmark.svg"/>
 
 <br>
+<br>
 
 <details>
     <summary>Stats</summary>
