@@ -32,8 +32,6 @@
 <br/>
 
 ### Stats
-![slushyrh's Stats](https://https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![slushyrh's Stats](https://github-readme-stats-2dvx.vercel.app/api?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-![slushyrh's Top Languages](https://https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<br>
-Yes I know I need to diversify my public repositories.
+![slushyrh's Top Languages](https://github-readme-stats-2dvx.vercel.app/api/top-langs/?username=slushyrh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
