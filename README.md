@@ -7,12 +7,17 @@ age: 21
 located_in: Sydney, Australia
 education: ["Bachelor of Computer Science", "Diploma of Information Technology"]
 university: University of Wollongong
-fields_of_interests: ["Game Development", "Simulations", "Front End Development", "UI Design", 
-                      "Photo & Video Editing"]
-technical_background: ["Game Development", "Desktop Application Development", "Optimization"]
+fields_of_interests: [
+  "Game Development",
+  "Procedural Generatiion",
+  "Front End Development",
+  "UI Design",
+  "Photo & Video Editing"
+]
+technical_background: ["Game Development", "Desktop Application Development"]
 currently_learning: ["React"]
 will_learn: ["Game Engine Development", "Blender"]
-hobbies: ["Football (Soccer)", "Game Development", "Gaming", "Video Editing"]
+hobbies: ["Football (Soccer)", "Game Development", "Programming", "Gaming", "Video Editing"]
 ```
 
 ---
