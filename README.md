@@ -9,7 +9,8 @@ education: ["Bachelor of Computer Science", "Diploma of Information Technology"]
 university: University of Wollongong
 fields_of_interests: [
   "Game Development",
-  "Procedural Generatiion",
+  "Procedural Generation",
+  "Simulations",
   "Front End Development",
   "UI Design",
   "Photo & Video Editing"
