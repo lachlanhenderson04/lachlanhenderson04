@@ -16,7 +16,6 @@ fields_of_interests: [
   "UI Design",
   "Photo & Video Editing"
 ]
-technical_background: ["Game Development", "Desktop Application Development"]
 currently_learning: ["React"]
 will_learn: ["Game Engine Development", "Blender"]
 hobbies: ["Football (Soccer)", "Game Development", "Programming", "Gaming", "Video Editing"]
